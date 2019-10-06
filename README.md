@@ -1,5 +1,6 @@
 # batch_process_ICESat_h5data
 **Author: Wang Yuzhe**
+
 These scripts are used to obtain the projected shapefiles from the original ICESat .H5 files in a batch process.
 
 1. Run "get_campaign_table.m" in MATLAB. This will produce a .mat file;
