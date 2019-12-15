@@ -11,7 +11,7 @@ These scripts are used to obtain the projected shapefiles from the original ICES
 
 4. Run "project_wgs2utm.py" in python editor provided by ArcGIS. This will project the shape files using UTM coordinates.
 
-Note:
+*Note:*
 * All processes are run in the current path.
 
-* The projection coordinate can be specified according to your study region. In this example, UTM 47N is used.
+* The projection coordinate can be specified according to your study region. In this example, UTM 47N (EPSG code: 32647) is used.
