@@ -8,7 +8,7 @@ These scripts are used to obtain the projected shapefiles from the original ICES
 
 2. Run "read_h5_write_csv.m" in MATLAB. This will read the information from .H5 data and save them as csv files;
 
-3. Run "convert_csv2shp.py" in python editor provided by ArcGIS. This  will convert csv files to shape files geocoded in WGS84;
+3. Run "convert_csv2shp.py" in python editor provided by ArcGIS. This  will convert csv files to shapefiles geocoded in WGS84;
 
 4. Run "project_wgs2utm.py" in python editor provided by ArcGIS. This will project the shape files using UTM coordinates.
 
